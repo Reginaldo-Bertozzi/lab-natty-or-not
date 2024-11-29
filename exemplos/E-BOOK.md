@@ -4,7 +4,7 @@
 Este e-book de 54 páginas explora o que vem a ser Natty ou Not no fisiculturismo e faz uma relação com as imagens naturais e as geradas por IA.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[CoPilot]([(https://copilot.microsoft.com/)])** para roteirização;
+- IA Generativa **[CoPilot]([https://copilot.microsoft.com/])** para roteirização;
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Foi feito um pedido para gerar o ebook com os capítulos e depois foi feito a solicitação para aprimorar cada um destes capítulos.
