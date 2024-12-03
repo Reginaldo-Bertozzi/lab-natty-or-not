@@ -12,7 +12,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book apresenta de forma geral as informações relevantes sobre a forma como um fisiculturista consegue os seus resultados. Se ele consegue isto de forma natural ou não. E no final faz uma relação entre os fisiculturistas e as imagens
 
-[LINK PARA O E-BOOK AQUI]()
+[[LINK PARA O E-BOOK AQUI](https://docs.google.com/document/d/1VfEFjUPyXwGgRMB7ZD0DuP-SoHW6uTQBpoMT_cGC5ms/edit?usp=sharing)]()
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
